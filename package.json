@@ -1,0 +1,37 @@
+{
+  "name": "@likun./rct",
+  "version": "1.0.3",
+  "description": "react-component-template-generator",
+  "main": "bin/index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "template"
+  ],
+  "author": "likun",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/likuner/RCT.git"
+  },
+  "files": [
+    "bin",
+    "template",
+    "utils",
+    ".npmignore",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "chalk": "4.1.2",
+    "commander": "^9.0.0",
+    "fs-extra": "^10.0.1",
+    "inquirer": "^8.2.1",
+    "prettier": "^2.6.0",
+    "prettier-eslint": "^13.0.0"
+  }
+}
