@@ -15,7 +15,7 @@ yarn global add @likun./rct
 | -p / --path | 组件存放目录 | rct --path ./src |
 | -y / --yes | 无需其他参数，快速生成组件，可配合--name与--path使用 | rct --yes |
 | -h / --help | 显示帮助 | rct --help |
-| -V / --version | 显示帮助 | rct -V |
+| -V / --version | 显示版本信息 | rct -V |
 
 ## 其他选项
 
