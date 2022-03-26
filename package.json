@@ -18,6 +18,9 @@
     "type": "git",
     "url": "https://github.com/likuner/RCT.git"
   },
+  "bugs": {
+    "url": "https://github.com/likuner/RCT/issues"
+  },
   "files": [
     "bin",
     "template",
