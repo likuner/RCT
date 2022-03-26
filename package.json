@@ -22,7 +22,6 @@
     "bin",
     "template",
     "utils",
-    ".npmignore",
     "package.json",
     "README.md"
   ],
